@@ -1,1 +1,1 @@
-# ClaimsBasedAuthNAuthZ
+# ClaimsWebAppAuthNAuthZ-ADFS
